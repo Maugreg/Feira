@@ -1,0 +1,209 @@
+﻿2021-08-12 16:33:34.553 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [12/08/2021 16:33:34]
+2021-08-12 16:33:34.573 -03:00 [Information] Log adicionado na aplicação.
+2021-08-12 16:33:34.574 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-12 16:35:38.789 -03:00 [Information] Handling command "ExcluirCommand" (ExcluirCommand { id: 1 })
+2021-08-12 16:35:38.796 -03:00 [Information] Validating command "ExcluirCommand"
+2021-08-12 16:35:42.241 -03:00 [Information] Command "ExcluirCommand" handled - response: True
+2021-08-12 16:53:14.147 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [12/08/2021 16:53:14]
+2021-08-12 16:53:14.163 -03:00 [Information] Log adicionado na aplicação.
+2021-08-12 16:53:14.163 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-12 17:42:38.187 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [12/08/2021 17:42:38]
+2021-08-12 17:42:38.218 -03:00 [Information] Log adicionado na aplicação.
+2021-08-12 17:42:38.218 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-12 17:44:31.154 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [8/12/2021 5:44:31 PM]
+2021-08-12 17:44:31.168 -03:00 [Information] Log adicionado na aplicação.
+2021-08-12 17:44:31.169 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 14:24:59.379 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [13/08/2021 14:24:59]
+2021-08-13 14:24:59.400 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 14:24:59.400 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 14:29:26.722 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [13/08/2021 14:29:26]
+2021-08-13 14:29:26.748 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 14:29:26.748 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 14:29:52.141 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [13/08/2021 14:29:52]
+2021-08-13 14:29:52.154 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 14:29:52.154 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 14:30:09.842 -03:00 [Information] Handling command "CheckSqlServerCommand" (CheckSqlServerCommand {  })
+2021-08-13 14:30:09.846 -03:00 [Information] Validating command "CheckSqlServerCommand"
+2021-08-13 14:30:10.572 -03:00 [Information] Command "CheckSqlServerCommand" handled - response: True
+2021-08-13 19:17:37.822 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [13/08/2021 19:17:37]
+2021-08-13 19:17:37.841 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 19:17:37.841 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 19:19:42.960 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [13/08/2021 19:19:42]
+2021-08-13 19:19:42.977 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 19:19:42.977 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 19:26:23.301 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [13/08/2021 19:26:23]
+2021-08-13 19:26:23.323 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 19:26:23.323 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 19:27:34.990 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [13/08/2021 19:27:34]
+2021-08-13 19:27:35.004 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 19:27:35.004 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 19:28:39.036 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [8/13/2021 7:28:39 PM]
+2021-08-13 19:28:39.047 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 19:28:39.048 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 19:43:39.094 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [8/13/2021 7:43:39 PM]
+2021-08-13 19:43:39.104 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 19:43:39.105 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 20:21:00.825 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [8/13/2021 8:21:00 PM]
+2021-08-13 20:21:00.834 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 20:21:00.835 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 20:37:03.869 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [8/13/2021 8:37:03 PM]
+2021-08-13 20:37:03.875 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 20:37:03.876 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 20:37:50.492 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [8/13/2021 8:37:50 PM]
+2021-08-13 20:37:50.498 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 20:37:50.498 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 20:40:04.018 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [13/08/2021 20:40:04]
+2021-08-13 20:40:04.033 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 20:40:04.033 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-13 20:40:39.370 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [13/08/2021 20:40:39]
+2021-08-13 20:40:39.385 -03:00 [Information] Log adicionado na aplicação.
+2021-08-13 20:40:39.385 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-16 14:18:30.210 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [16/08/2021 14:18:30]
+2021-08-16 14:18:30.226 -03:00 [Information] Log adicionado na aplicação.
+2021-08-16 14:18:30.226 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-16 14:19:07.396 -03:00 [Information] Handling command "BuscarFiltroCommand" (BuscarFiltroCommand { Distrito: null, Regiao5: null, Nome_Feira: null, Bairro: null })
+2021-08-16 14:19:07.402 -03:00 [Information] Validating command "BuscarFiltroCommand"
+2021-08-16 14:19:07.597 -03:00 [Error] GET /api/v1/Feira - Escolha pelo menos um filtro.
+Feira.Domain.Exceptions.BusinessException: Escolha pelo menos um filtro.
+   at Feira.Api.Application.Commands.FeiraCommands.Buscar.BuscarFiltroCommandHandler.Handle(BuscarFiltroCommand request, CancellationToken cancellationToken) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Commands\FeiraCommands\Buscar\BuscarFiltroCommandHandler.cs:line 41
+   at Feira.Api.Application.Behaviors.ValidatorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Behaviors\ValidatorBehavior.cs:line 48
+   at Feira.Api.Application.Behaviors.LoggingBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Behaviors\LoggingBehavior.cs:line 23
+   at Feira.Api.Controllers.FeiraController.BuscarFiltro(String distrito, String regiao5, String nomeFeira, String bairro) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Controllers\FeiraController.cs:line 115
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2021-08-16 14:19:10.707 -03:00 [Error] GET /api/v1/Feira - Microsoft.AspNetCore.Mvc.ValidationProblemDetails
+Feira.Domain.Exceptions.BusinessException: Escolha pelo menos um filtro.
+   at Feira.Api.Application.Commands.FeiraCommands.Buscar.BuscarFiltroCommandHandler.Handle(BuscarFiltroCommand request, CancellationToken cancellationToken) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Commands\FeiraCommands\Buscar\BuscarFiltroCommandHandler.cs:line 41
+   at Feira.Api.Application.Behaviors.ValidatorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Behaviors\ValidatorBehavior.cs:line 48
+   at Feira.Api.Application.Behaviors.LoggingBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Behaviors\LoggingBehavior.cs:line 23
+   at Feira.Api.Controllers.FeiraController.BuscarFiltro(String distrito, String regiao5, String nomeFeira, String bairro) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Controllers\FeiraController.cs:line 115
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2021-08-16 14:30:17.713 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [8/16/2021 2:30:17 PM]
+2021-08-16 14:30:17.821 -03:00 [Information] Log adicionado na aplicação.
+2021-08-16 14:30:17.822 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-16 14:31:06.754 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [8/16/2021 2:31:06 PM]
+2021-08-16 14:31:06.767 -03:00 [Information] Log adicionado na aplicação.
+2021-08-16 14:31:06.768 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-16 14:31:44.334 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [8/16/2021 2:31:44 PM]
+2021-08-16 14:31:44.342 -03:00 [Information] Log adicionado na aplicação.
+2021-08-16 14:31:44.344 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-16 14:32:04.000 -03:00 [Information] Handling command "CheckMySqlCommand" (CheckMySqlCommand {  })
+2021-08-16 14:32:04.007 -03:00 [Information] Validating command "CheckMySqlCommand"
+2021-08-16 14:32:06.057 -03:00 [Error] GET /api/v1/HealthCheck/dbMysql - Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+ ---> System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. 127.0.0.1:3306)
+ ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:3306
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings, MyNetworkStream& networkStream)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings, MyNetworkStream& networkStream)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbConnection.OpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 419
+   at Feira.Repository.Wrapper.WrapperDbConnection.QueryAsync[T](IDbConnection connection, String sql, Object param) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Repository\Wrapper\WrapperDbConnection.cs:line 59
+   at Feira.Repository.HealthCheckRepository.CheckDataBaseMySqlStatusAsync() in C:\Users\U002237\source\repos\Feira\Feira\Feira.Repository\HealthCheckRepository.cs:line 29
+   at Feira.Api.Application.Commands.HealthCheck.CheckMySqlCommandHandler.Handle(CheckMySqlCommand request, CancellationToken cancellationToken) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Commands\HealthCheck\CheckMySqlCommandHandler.cs:line 24
+   at Feira.Api.Application.Behaviors.ValidatorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Behaviors\ValidatorBehavior.cs:line 48
+   at Feira.Api.Application.Behaviors.LoggingBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Behaviors\LoggingBehavior.cs:line 23
+   at Feira.Api.Controllers.HealthCheckController.CheckDataBaseSqlServerStatusAsync() in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Controllers\HealthCheckController.cs:line 42
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2021-08-16 14:32:46.262 -03:00 [Information] Handling command "BuscarFiltroCommand" (BuscarFiltroCommand { Distrito: "sass", Regiao5: null, Nome_Feira: null, Bairro: null })
+2021-08-16 14:32:46.266 -03:00 [Information] Validating command "BuscarFiltroCommand"
+2021-08-16 14:32:52.311 -03:00 [Error] GET /api/v1/Feira - Unable to connect to any of the specified MySQL hosts.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+ ---> System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. 127.0.0.1:3306)
+ ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): No connection could be made because the target machine actively refused it. 127.0.0.1:3306
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings, MyNetworkStream& networkStream)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings, MyNetworkStream& networkStream)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbConnection.OpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 419
+   at Feira.Repository.Wrapper.WrapperDbConnection.QueryAsync[T](IDbConnection connection, String sql, Object param) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Repository\Wrapper\WrapperDbConnection.cs:line 59
+   at Feira.Repository.FeiraRepository.BuscarFiltroAsync(String distrito, String regiao5, String nomeFeira, String bairro) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Repository\FeiraRepository.cs:line 62
+   at Feira.Api.Application.Commands.FeiraCommands.Buscar.BuscarFiltroCommandHandler.Handle(BuscarFiltroCommand request, CancellationToken cancellationToken) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Commands\FeiraCommands\Buscar\BuscarFiltroCommandHandler.cs:line 41
+   at Feira.Api.Application.Behaviors.ValidatorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Behaviors\ValidatorBehavior.cs:line 48
+   at Feira.Api.Application.Behaviors.LoggingBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Application\Behaviors\LoggingBehavior.cs:line 23
+   at Feira.Api.Controllers.FeiraController.BuscarFiltro(String distrito, String regiao5, String nomeFeira, String bairro) in C:\Users\U002237\source\repos\Feira\Feira\Feira.Api\Controllers\FeiraController.cs:line 115
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2021-08-16 14:33:26.986 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [8/16/2021 2:33:26 PM]
+2021-08-16 14:33:26.996 -03:00 [Information] Log adicionado na aplicação.
+2021-08-16 14:33:26.997 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-16 14:34:07.612 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [16/08/2021 14:34:07]
+2021-08-16 14:34:07.627 -03:00 [Information] Log adicionado na aplicação.
+2021-08-16 14:34:07.627 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-16 14:34:30.614 -03:00 [Information] Handling command "BuscarFiltroCommand" (BuscarFiltroCommand { Distrito: "dwdwq", Regiao5: null, Nome_Feira: null, Bairro: null })
+2021-08-16 14:34:30.626 -03:00 [Information] Validating command "BuscarFiltroCommand"
+2021-08-16 14:34:38.766 -03:00 [Information] Command "BuscarFiltroCommand" handled - response: []
+2021-08-21 00:43:20.521 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [21/08/2021 00:43:20]
+2021-08-21 00:43:20.544 -03:00 [Information] Log adicionado na aplicação.
+2021-08-21 00:43:20.544 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-21 00:45:18.656 -03:00 [Information] Handling command "InserirCommand" (InserirCommand { Long: 99, Lat: 999, Setcens: 99, Areap: 999, CodDist: 7777, Distrito: "string", CodSubPref: 888, SubPrefe: "string", Regiao5: "string", Regiao8: "string", NomeFeira: "string", Registro: "string", Logradouro: "string", Numero: "string", Bairro: "string", Referencia: "string" })
+2021-08-21 00:45:18.660 -03:00 [Information] Validating command "InserirCommand"
+2021-08-21 00:45:28.908 -03:00 [Information] Command "InserirCommand" handled in "00h:00m:10s:190ms" - response: "true".
+2021-08-21 03:37:03.286 -03:00 [Information] Log iniciado para aplicação:[Feira.Api] da data de: [21/08/2021 03:37:03]
+2021-08-21 03:37:03.303 -03:00 [Information] Log adicionado na aplicação.
+2021-08-21 03:37:03.304 -03:00 [Information] Adicionado injeção de dependencia na aplicação.
+2021-08-21 03:37:39.568 -03:00 [Information] Handling command "ExcluirCommand" (ExcluirCommand { id: 2 })
+2021-08-21 03:37:39.572 -03:00 [Information] Validating command "ExcluirCommand"
+2021-08-21 03:37:43.020 -03:00 [Information] Command "ExcluirCommand" handled in "00h:00m:03s:448ms" - response: "true".

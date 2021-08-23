@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Feira.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Feira.Api.Application.Commands.FeiraCommands.Alterar.AlterarCommandHandler.Handle(Feira.Api.Application.requests.Feirarequests.Alterar.AlterarCommand,System.Threading.CancellationToken)">
+            <summary>
+            Evento para alterar as propriedades da entidade feira
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Feira.Api.Application.Commands.FeiraCommands.Buscar.BuscarFiltroCommandHandler.Handle(Feira.Api.Application.Commands.FeiraCommands.Buscar.BuscarFiltroCommand,System.Threading.CancellationToken)">
+            <summary>
+            Metodo de Buscar feira por filtro 
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Feira.Api.Application.Commands.FeiraCommands.Inserir.ExcluirCommandHandler.Handle(Feira.Api.Application.Commands.FeiraCommands.Excluir.ExcluirCommand,System.Threading.CancellationToken)">
+            <summary>
+            Evento de exclusao de uma de uma feira
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Feira.Api.Application.Commands.FeiraCommands.Inserir.InserirCommandHandler.Handle(Feira.Api.Application.Commands.FeiraCommands.Inserir.InserirCommand,System.Threading.CancellationToken)">
+            <summary>
+            Evento de inclusão de uma entidade feira
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Feira.Api.Controllers.FeiraController.Inserir(Feira.Api.Application.Commands.FeiraCommands.Inserir.InserirCommand)">
+            <summary>
+            Rota responsável por inserir uma nova Feira
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Feira.Api.Controllers.FeiraController.Excluir(System.Int32)">
+            <summary>
+            Rota responsável pela exclusão de uma feira pelo id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Feira.Api.Controllers.FeiraController.Alterar(System.Int32,Feira.Api.Models.AlterarRequest)">
+            <summary>
+            Rota responsável por alterar as informações da feira
+            </summary>
+            <param name="id"></param>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Feira.Api.Controllers.FeiraController.BuscarFiltro(System.String,System.String,System.String,System.String)">
+            <summary>
+            Rota que retorna uma lista de feira conforme o parametro utilizado
+            </summary>
+            <param name="distrito"></param>
+            <param name="regiao5"></param>
+            <param name="nomeFeira"></param>
+            <param name="bairro"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Feira.Api.Controllers.HealthCheckController.Application">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
