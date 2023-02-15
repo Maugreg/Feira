@@ -14,4 +14,5 @@ Serilog - Log guardados em arquivos textos: PastaRaiz/log.txt<br/>
 Teste de unidade: XUnit<br/> 
 Healtacheck<br/> 
 Teste Coverage de 80%: Feira/Feira.Test/TestResults/c2962d05-4028-4b85-9e0e-a33bcfbd8645<br/> 
+Fluent Validation<br/> 
 
